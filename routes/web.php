@@ -21,5 +21,8 @@ Route::get('/pharma', function () {
 Route::get('/search', function () {
     return view('search');
 });
+Route::get('/signup', function () {
+    return view('signup');
+});
 
 
