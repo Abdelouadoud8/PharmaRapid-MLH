@@ -62,7 +62,7 @@ Header
                 <li><a href="#portfolio">Products</a></li>
                 <li><a href="#footer">Contact Us</a></li>
                 <li> <a href="pharma" class="btn-get-started2" style="color: white ; margin-left: 20px ">ARE YOU A PHARMACIE? </a></li>
-                <li> <a href="login.html" class="btn-get-started2" style="color: white ; margin-left: 20px ">LOGIN</a></li>
+                <li> <a href="img/portfolio/web3.jpg" data-toggle="modal" data-target="#exampleModal" class="btn-get-started2" style="color: white ; margin-left: 20px" >LOGIN</a></li>
             </ul>
         </nav><!-- .main-nav -->
 
@@ -111,13 +111,13 @@ Header
                 <div class="col-lg-7 col-md-6">
                     <div class="about-content">
                         <h2>About Us</h2>
-                        <h3>Odio sed id eos et laboriosam consequatur eos earum soluta.</h3>
+                        <h3>Welcome to PharmaRapid , your ultimate medicament search helper.</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                         <p>Aut dolor id. Sint aliquam consequatur ex ex labore. Et quis qui dolor nulla dolores neque. Aspernatur consectetur omnis numquam quaerat. Sed fugiat nisi. Officiis veniam molestiae. Et vel ut quidem alias veritatis repudiandae ut fugit. Est ut eligendi aspernatur nulla voluptates veniam iusto vel quisquam. Fugit ut maxime incidunt accusantium totam repellendus eum error. Et repudiandae eum iste qui et ut ab alias.</p>
                         <ul>
-                            <li><i class="ion-android-checkmark-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                            <li><i class="ion-android-checkmark-circle"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                            <li><i class="ion-android-checkmark-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+                            <li><i class="ion-android-checkmark-circle"></i> Save your time.</li>
+                            <li><i class="ion-android-checkmark-circle"></i> Save your money.</li>
+                            <li><i class="ion-android-checkmark-circle"></i> Enjoy the best searching experiance.</li>
                         </ul>
                     </div>
                 </div>
@@ -135,7 +135,7 @@ Header
 
             <header class="section-header">
                 <h3>Services</h3>
-                <p>Laudem latine persequeris id sed, ex fabulas delectus quo. No vel partiendo abhorreant vituperatoribus.</p>
+                <p>We're didicated to provide you with the best experiance.</p>
             </header>
 
             <div class="row" style="margin-left: 250px;"">
@@ -143,15 +143,15 @@ Header
             <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">
                 <div class="box">
                     <div class="icon" style="background: #fceef3;"><i class="ion-ios-analytics-outline" style="color: #ff689b;"></i></div>
-                    <h4 class="title"><a href="">Marketing</a></h4>
-                    <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+                    <h4 class="title"><a href="">Disponibility</a></h4>
+                    <p class="description"> We aim to help you find your medicament with no wasted time or energy !</p>
                 </div>
             </div>
             <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">
                 <div class="box">
                     <div class="icon" style="background: #fff0da;"><i class="ion-ios-bookmarks-outline" style="color: #e98e06;"></i></div>
-                    <h4 class="title"><a href="">Dolor Sitema</a></h4>
-                    <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+                    <h4 class="title"><a href="">Best Sale</a></h4>
+                    <p class="description">We provide promotions , products recommodation , Pharmacies' direct contact and more !</p>
                 </div>
             </div>
         </div>
@@ -166,11 +166,11 @@ Header
         <div class="container">
             <div class="row">
                 <div class="col-lg-9 text-center text-lg-left">
-                    <h3 class="cta-title">Call To Action</h3>
+                    <h3 class="cta-title">Start Your Experience With Us Now!</h3>
                     <p class="cta-text"> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                 </div>
                 <div class="col-lg-3 cta-btn-container text-center">
-                    <a class="cta-btn align-middle" href="#">Call To Action</a>
+                    <a class="cta-btn align-middle" href="#">Search Now</a>
                 </div>
             </div>
 
@@ -348,33 +348,25 @@ Header
 
                         <div class="testimonial-item">
                             <img src="img/testimonial-1.jpg" class="testimonial-img" alt="">
-                            <h3>Saul Goodman</h3>
+                            <h3>Amine Saidouni</h3>
                             <p>
-                                Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                                It was really helpful, it saved a lot of my time
                             </p>
                         </div>
 
                         <div class="testimonial-item">
                             <img src="img/testimonial-2.jpg" class="testimonial-img" alt="">
-                            <h3>Sara Wilsson</h3>
+                            <h3>Sara yemin</h3>
                             <p>
-                                Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                                The best ever!!! .. it is an awesome website it helps me to find my children medicaments from my house
                             </p>
                         </div>
 
                         <div class="testimonial-item">
                             <img src="img/testimonial-3.jpg" class="testimonial-img" alt="">
-                            <h3>Jena Karlis</h3>
+                            <h3>Imen Benkhlifa</h3>
                             <p>
-                                Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
-                            </p>
-                        </div>
-
-                        <div class="testimonial-item">
-                            <img src="img/testimonial-4.jpg" class="testimonial-img" alt="">
-                            <h3>Matt Brandon</h3>
-                            <p>
-                                Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                                I'm relieved with my experience in your website .. now i got rid of finding my regular medicaments problem
                             </p>
                         </div>
 
@@ -424,7 +416,7 @@ Header
 
             <ul id="faq-list" class="wow fadeInUp">
                 <li>
-                    <a data-toggle="collapse" class="collapsed" href="#faq1">Non consectetur a erat nam at lectus urna duis? <i class="ion-android-remove"></i></a>
+                    <a data-toggle="collapse" class="collapsed" href="#faq1">What is PharmaRapid ? <i class="ion-android-remove"></i></a>
                     <div id="faq1" class="collapse" data-parent="#faq-list">
                         <p>
                             Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
@@ -433,7 +425,7 @@ Header
                 </li>
 
                 <li>
-                    <a data-toggle="collapse" href="#faq2" class="collapsed">Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque? <i class="ion-android-remove"></i></a>
+                    <a data-toggle="collapse" href="#faq2" class="collapsed">Who we are ? <i class="ion-android-remove"></i></a>
                     <div id="faq2" class="collapse" data-parent="#faq-list">
                         <p>
                             Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
@@ -442,7 +434,7 @@ Header
                 </li>
 
                 <li>
-                    <a data-toggle="collapse" href="#faq3" class="collapsed">Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi? <i class="ion-android-remove"></i></a>
+                    <a data-toggle="collapse" href="#faq3" class="collapsed">What are our services ? <i class="ion-android-remove"></i></a>
                     <div id="faq3" class="collapse" data-parent="#faq-list">
                         <p>
                             Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
@@ -451,25 +443,7 @@ Header
                 </li>
 
                 <li>
-                    <a data-toggle="collapse" href="#faq4" class="collapsed">Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla? <i class="ion-android-remove"></i></a>
-                    <div id="faq4" class="collapse" data-parent="#faq-list">
-                        <p>
-                            Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
-                        </p>
-                    </div>
-                </li>
-
-                <li>
-                    <a data-toggle="collapse" href="#faq5" class="collapsed">Tempus quam pellentesque nec nam aliquam sem et tortor consequat? <i class="ion-android-remove"></i></a>
-                    <div id="faq5" class="collapse" data-parent="#faq-list">
-                        <p>
-                            Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
-                        </p>
-                    </div>
-                </li>
-
-                <li>
-                    <a data-toggle="collapse" href="#faq6" class="collapsed">Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem dolor? <i class="ion-android-remove"></i></a>
+                    <a data-toggle="collapse" href="#faq6" class="collapsed">Who are our partners?<i class="ion-android-remove"></i></a>
                     <div id="faq6" class="collapse" data-parent="#faq-list">
                         <p>
                             Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque. Pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Nibh tellus molestie nunc non blandit massa enim nec.
@@ -596,6 +570,43 @@ Header
         </div>
     </div>
 </footer><!-- #footer -->
+
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel" style="margin-left: 190px">LOGIN</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <div class="form-group row">
+                        <label for="inputEmail3" class="col-sm-2 col-form-label">Email</label>
+                        <div class="col-sm-10">
+                            <input type="email" class="form-control" id="inputEmail3">
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label for="inputPassword3" class="col-sm-2 col-form-label">Password</label>
+                        <div class="col-sm-10">
+                            <input type="password" class="form-control" id="inputPassword3" style="margin-bottom: 10px">
+                        </div>
+                        <small id="passwordHelpInline" class="text-muted" style="margin-left: 100px">
+                            You don't have an account? <a href="signup">Sign Up Here</a>
+                        </small>
+                    </div>
+
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">LOGIN</button>
+            </div>
+        </div>
+    </div>
+</div>
 
 <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
 

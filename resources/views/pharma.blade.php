@@ -49,7 +49,7 @@ Header
 
         <div class="logo float-left">
             <!-- Uncomment below if you prefer to use an image logo -->
-            <h1 class="text-light"><a href="index.html" class="scrollto"><span style="margin-left: -20px;">pharma Rapid</span></a></h1>
+            <h1 class="text-light"><a href="#intro" class="scrollto" style="margin-left: -50px"><span style="color: #1bb1dc">PHARMA</span><span > RAPID</span></a></h1>
             <!-- <a href="#header" class="scrollto"><img src="img/logo.png" alt="" class="img-fluid"></a> -->
         </div>
 
@@ -58,11 +58,9 @@ Header
                 <li class="active"><a href="/">Home</a></li>
                 <li><a href="#why-us">why-us</a></li>
                 <li><a href="#services">Services</a></li>
-
-
                 <li><a href="#team">Team</a></li>
                 <li><a href="#footer">Contact Us</a></li>
-                <li> <a href="login .html" class="btn-get-started2" style="color: white ; margin-left: 20px ">LOG IN</a></li>
+                <li> <a href="img/portfolio/web3.jpg" data-toggle="modal" data-target="#exampleModal" class="btn-get-started2" style="color: white ; margin-left: 20px" >LOGIN</a></li>
             </ul>
         </nav><!-- .main-nav -->
 
@@ -76,9 +74,9 @@ Header
     <div class="container d-flex h-100">
         <div class="row justify-content-center align-self-center">
             <div class="col-md-6 intro-info order-md-first order-last">
-                <h2>welcome <br>to our <span>services!</span></h2>
+                <h2>Pharmacy?<br>Just Click <span>Start!</span></h2>
                 <div>
-                    <a href="#why-us" class="btn-get-started scrollto">Get Started</a>
+                    <a href="#why-us" class="btn-get-started scrollto">Start</a>
                 </div>
             </div>
 
@@ -122,8 +120,8 @@ Header
 
                         <div class="features wow bounceInUp clearfix">
                             <i class="fa fa-diamond" style="color: #f058dc;"></i>
-                            <h4>Corporis dolorem</h4>
-                            <p>Commodi quia voluptatum. Est cupiditate voluptas quaerat officiis ex alias dignissimos et ipsum. Soluta at enim modi ut incidunt dolor et.</p>
+                            <h4>Time Save</h4>
+                            <p>We aim to help you find your medicament with no wasted time or energy!</p>
                         </div>
 
                         <div class="features wow bounceInUp clearfix">
@@ -166,14 +164,14 @@ Header
                 <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">
                     <div class="box">
                         <div class="icon" style="background: #fceef3;"><i class="ion-ios-analytics-outline" style="color: #ff689b;"></i></div>
-                        <h4 class="title"><a href="">Lorem Ipsum</a></h4>
+                        <h4 class="title"><a href="">Marketing</a></h4>
                         <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">
                     <div class="box">
                         <div class="icon" style="background: #fff0da;"><i class="ion-ios-bookmarks-outline" style="color: #e98e06;"></i></div>
-                        <h4 class="title"><a href="">Dolor Sitema</a></h4>
+                        <h4 class="title"><a href="">Boost Your Business</a></h4>
                         <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
                     </div>
                 </div>
@@ -181,7 +179,7 @@ Header
                 <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
                     <div class="box">
                         <div class="icon" style="background: #e6fdfc;"><i class="ion-ios-paper-outline" style="color: #3fcdc7;"></i></div>
-                        <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
+                        <h4 class="title"><a href="">Better Targetting Of Your Clients</a></h4>
                         <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
                     </div>
                 </div>
@@ -210,7 +208,7 @@ Header
                 <div class="col-xs-12 col-lg-4">
                     <div class="card">
                         <div class="card-header">
-                            <h3><span class="currency">$</span>19<span class="period">/month</span></h3>
+                            <h3><span class="currency">DZD</span>5000<span class="period">/month</span></h3>
                         </div>
                         <div class="card-block">
                             <h4 class="card-title">
@@ -421,7 +419,7 @@ Header
 
             <ul id="faq-list" class="wow fadeInUp">
                 <li>
-                    <a data-toggle="collapse" class="collapsed" href="#faq1">Non consectetur a erat nam at lectus urna duis? <i class="ion-android-remove"></i></a>
+                    <a data-toggle="collapse" class="collapsed" href="#faq1">What is PharmaRapid ? <i class="ion-android-remove"></i></a>
                     <div id="faq1" class="collapse" data-parent="#faq-list">
                         <p>
                             Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
@@ -430,7 +428,7 @@ Header
                 </li>
 
                 <li>
-                    <a data-toggle="collapse" href="#faq2" class="collapsed">Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque? <i class="ion-android-remove"></i></a>
+                    <a data-toggle="collapse" href="#faq2" class="collapsed">Who we are ? <i class="ion-android-remove"></i></a>
                     <div id="faq2" class="collapse" data-parent="#faq-list">
                         <p>
                             Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
@@ -439,7 +437,7 @@ Header
                 </li>
 
                 <li>
-                    <a data-toggle="collapse" href="#faq3" class="collapsed">Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi? <i class="ion-android-remove"></i></a>
+                    <a data-toggle="collapse" href="#faq3" class="collapsed">What are our services ? <i class="ion-android-remove"></i></a>
                     <div id="faq3" class="collapse" data-parent="#faq-list">
                         <p>
                             Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
@@ -448,25 +446,7 @@ Header
                 </li>
 
                 <li>
-                    <a data-toggle="collapse" href="#faq4" class="collapsed">Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla? <i class="ion-android-remove"></i></a>
-                    <div id="faq4" class="collapse" data-parent="#faq-list">
-                        <p>
-                            Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
-                        </p>
-                    </div>
-                </li>
-
-                <li>
-                    <a data-toggle="collapse" href="#faq5" class="collapsed">Tempus quam pellentesque nec nam aliquam sem et tortor consequat? <i class="ion-android-remove"></i></a>
-                    <div id="faq5" class="collapse" data-parent="#faq-list">
-                        <p>
-                            Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
-                        </p>
-                    </div>
-                </li>
-
-                <li>
-                    <a data-toggle="collapse" href="#faq6" class="collapsed">Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem dolor? <i class="ion-android-remove"></i></a>
+                    <a data-toggle="collapse" href="#faq6" class="collapsed">Who are our partners?<i class="ion-android-remove"></i></a>
                     <div id="faq6" class="collapse" data-parent="#faq-list">
                         <p>
                             Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque. Pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Nibh tellus molestie nunc non blandit massa enim nec.
@@ -594,6 +574,43 @@ Header
 
     </div>
 </footer><!-- #footer -->
+
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel" style="margin-left: 190px">LOGIN</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <div class="form-group row">
+                        <label for="inputEmail3" class="col-sm-2 col-form-label">Email</label>
+                        <div class="col-sm-10">
+                            <input type="email" class="form-control" id="inputEmail3">
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label for="inputPassword3" class="col-sm-2 col-form-label">Password</label>
+                        <div class="col-sm-10">
+                            <input type="password" class="form-control" id="inputPassword3" style="margin-bottom: 10px">
+                        </div>
+                        <small id="passwordHelpInline" class="text-muted" style="margin-left: 100px">
+                            You don't have an account? <a href="signup.html">Sign Up Here</a>
+                        </small>
+                    </div>
+
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">LOGIN</button>
+            </div>
+        </div>
+    </div>
+</div>
 
 <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
 <!-- Uncomment below i you want to use a preloader -->
